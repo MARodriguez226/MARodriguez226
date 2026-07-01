@@ -1,9 +1,8 @@
 ## About Me
 
-- 🛠️ Currently building software for Kalshi trading.
-- 📘 Learning functional programming and scalable system design.
-- 🤝 Open to collaborating on Kalshi-related tools and infrastructure.
-- 🎯 Ask me about heads-up poker or event contracts.
+- 🛠️ Software Engineer at AWS in Herndon, VA with an interest in research-driven software engineering.
+- 📘 Exploring algorithms, distributed systems, reinforcement learning, and software reliability.
+- 🤝 Open to collaborating on simple models of complex systems.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/marco-rodriguez-3a0728251/).
 - 🎲 Fun fact: I can juggle.
   
